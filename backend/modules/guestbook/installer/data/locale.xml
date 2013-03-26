@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+	<backend>
+		<core>
+			<item type="label" name="Guestbook">
+				<translation language="nl"><![CDATA[Gastenboek]]></translation>
+				<translation language="en"><![CDATA[Guestbook]]></translation>
+			</item>
+		</core>
+		<guestbook>
+			<item type="message" name="EditCommentOn">
+				<translation language="nl"><![CDATA[Wijzig reactie van]]></translation>
+				<translation language="en"><![CDATA[Edit comment from]]></translation>
+			</item>
+			<item type="message" name="Comment">
+				<translation language="nl"><![CDATA[Reageer]]></translation>
+				<translation language="en"><![CDATA[Comment]]></translation>
+			</item>
+			<item type="message" name="CommentInModeration">
+				<translation language="nl"><![CDATA[Reactie in moderatie.]]></translation>
+				<translation language="en"><![CDATA[Comment in moderation.]]></translation>
+			</item>
+			<item type="message" name="CommentIsSpam">
+				<translation language="nl"><![CDATA[Reactie is spam.]]></translation>
+				<translation language="en"><![CDATA[Comment is spam.]]></translation>
+			</item>
+			<item type="message" name="CommentIsAdded">
+				<translation language="nl"><![CDATA[De reactie is toegevoegd.]]></translation>
+				<translation language="en"><![CDATA[The comment is added.]]></translation>
+			</item>
+			<item type="message" name="HelpMeta">
+				<translation language="nl"><![CDATA[Help met meta data]]></translation>
+				<translation language="en"><![CDATA[Help with meta data]]></translation>
+			</item>
+			<item type="message" name="HelpPingServices">
+				<translation language="nl"><![CDATA[Help met ping services]]></translation>
+				<translation language="en"><![CDATA[Help with ping services]]></translation>
+			</item>
+			<item type="message" name="NotifyByEmailOnNewCommentToModerate">
+				<translation language="nl"><![CDATA[Waarschuw via email bij een nieuw te modereren reactie.]]></translation>
+				<translation language="en"><![CDATA[Notify by email on a new comment to moderate.]]></translation>
+			</item>
+			<item type="message" name="NotifyByEmailOnNewComment">
+				<translation language="nl"><![CDATA[Waarschuw via email bij een nieuwe reactie.]]></translation>
+				<translation language="en"><![CDATA[Notify by email on new comment.]]></translation>
+			</item>
+			<item type="message" name="HelpSpamFilter">
+				<translation language="nl"><![CDATA[Hulp bij de spamfilter]]></translation>
+				<translation language="en"><![CDATA[Help with spamfilter]]></translation>
+			</item>
+			<item type="message" name="FollowAllCommentsInRSS">
+				<translation language="nl"><![CDATA[Volg alle reacties in een RSS Feed: <a href="%1$s">%1$s</a>.]]></translation>
+				<translation language="en"><![CDATA[Follow all comments in an RSS Feed: <a href="%1$s">%1$s</a>.]]></translation>
+			</item>
+			<item type="message" name="EditedComment">
+				<translation language="nl"><![CDATA[Reactie bewerkt.]]></translation>
+				<translation language="en"><![CDATA[Comment edited.]]></translation>
+			</item>
+			<item type="label" name="Guestbook">
+				<translation language="nl"><![CDATA[Gastenboek]]></translation>
+				<translation language="en"><![CDATA[Guestbook]]></translation>
+			</item>
+		</guestbook>
+	</backend>
+	<frontend>
+		<core>
+			<item type="label" name="Guestbook">
+				<translation language="nl"><![CDATA[Gastenboek]]></translation>
+				<translation language="en"><![CDATA[Guestbook]]></translation>
+			</item>
+			<item type="label" name="Guestbook">
+				<translation language="nl"><![CDATA[Gastenboek]]></translation>
+				<translation language="en"><![CDATA[Guestbook]]></translation>
+			</item>
+			<item type="message" name="GuestbookAllComments">
+				<translation language="nl"><![CDATA[Alle gastenboek reacties.]]></translation>
+				<translation language="en"><![CDATA[All guestbook comments.]]></translation>
+			</item>
+			<item type="message" name="GuestbookEmailNotificationsNewComment">
+				<translation language="nl"><![CDATA[%1$s reageerde op <a href="%2$s">%3$s</a>.]]></translation>
+				<translation language="en"><![CDATA[%1$s commented on <a href="%2$s">%3$s</a>.]]></translation>
+				<translation language="hu"><![CDATA[%1$s hozzászólt <a href="%2$s">%3$s</a>.]]></translation>
+				<translation language="it"><![CDATA[%1s ha commentato <a href="%2$s">%3$s</a>.]]></translation>
+				<translation language="fr"><![CDATA[%1$s a commenté <a href="%2$s">%3$s</a>]]></translation>
+				<translation language="ru"><![CDATA[%1$s прокомментировал <a href="%2$s">%3$s</a>.]]></translation>
+				<translation language="pl"><![CDATA[%1$s skomentował(a) w <a href="%2$s">%3$s</a>.]]></translation>
+				<translation language="cn"><![CDATA[%1$s 在<a href="%2$s">%3$s</a>发表了评论。]]></translation>
+				<translation language="de"><![CDATA[%1$s kommentierte <a href="%2$s">%3$s</a>.]]></translation>
+				<translation language="es"><![CDATA[%1$s ha comentado en <a href="%2$s">%3$s</a>.]]></translation>
+			</item>
+			<item type="message" name="GuestbookEmailNotificationsNewCommentToModerate">
+				<translation language="nl"><![CDATA[%1$s reageerde op <a href="%2$s">%3$s</a>. <a href="%4$s">Modereer</a> deze reactie om ze zichtbaar te maken op de website.]]></translation>
+				<translation language="en"><![CDATA[%1$s commented on <a href="%2$s">%3$s</a>. <a href="%4$s">Moderate</a> the comment to publish it.]]></translation>
+				<translation language="pl"><![CDATA[%1$s skomentował <a href="%2$s>%3$s</a>.<a href="%4$s">Moderuj</a> ten komentarz aby go opublikować.]]></translation>
+				<translation language="hu"><![CDATA[%1$s hozzászólt <a href="%2$s">%3$s</a>. A hozzászólás <a href="%4$s">moderálása</a> a közzétételhez.]]></translation>
+				<translation language="it"><![CDATA[%1$s ha commentato <a href="%2$s">%3$s</a>. <a href="%4$s">Approva</a> il commento per pubblicarlo.]]></translation>
+				<translation language="fr"><![CDATA[%1$s a commenté <a href="%2$s">%3$s</a>. <a href="%4$s">Moderez</a> le commentaire pour le publier.]]></translation>
+				<translation language="ru"><![CDATA[%1$s прокомментировал <a href="%2$s">%3$s</a>. <a href="%4$s">Промодерируйте</a> комментарий для публикации его на сайте.]]></translation>
+				<translation language="cn"><![CDATA[%1$s在 <a href="%2$s">%3$s</a>发表了评论。 <a href="%4$s">审核通过</a> 这条评论并发布。]]></translation>
+				<translation language="de"><![CDATA[%1$s kommentierte <a href="%2$s">%3$s</a>. <a href="%4$s">Moderiere</a> den Kommentar um ihn zu veröffentlichen.]]></translation>
+			</item>
+		</core>
+	</frontend>
+</locale>

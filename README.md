@@ -1,4 +1,4 @@
-module-guestbook
-================
+Module: Guestbook
+=================
 
-The guestbook module for Fork CMS
+The guestbook module enables guests to write comments on your website.
